@@ -45,3 +45,7 @@ __Server / Deployment__
 
 * Nginx / Gunicorn
 
+
+  
+
+![screen](https://github.com/FoubaDev/FoubaDev.github.io/assets/106548412/9d145f93-dbe3-41c3-8b17-a56843ec271e)
